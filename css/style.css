@@ -8,8 +8,8 @@ html,
 body {
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  justify-content: flex-start;
+  align-items: flex-start;
   background-image: url("https://i.imgur.com/i9rcGzu.png");
   background-repeat: no-repeat;
   background-size: cover;
@@ -17,5 +17,9 @@ body {
   max-width: 100%;
   height: auto;
   opacity: 1.2;
+}
+
+article {
+ flex-basis: auto;
 }
 
