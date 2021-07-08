@@ -17,9 +17,16 @@ body {
   max-width: 100%;
   height: auto;
   opacity: 1.2;
+  font-size: 18px;
 }
 
 article {
  flex-basis: auto;
 }
+
+@media only screen and (max-width: 480px) {
+    body {
+      font-size: 20px;
+    }
+  } 
 
