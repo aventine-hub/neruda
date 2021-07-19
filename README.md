@@ -8,6 +8,4 @@
 
 *Optimized design for 8 screen sizes (desktop and mobile) using Responsively app, flexbox, and media queries.
 
-
-
 *Ricardo Eliécer Neftalí Reyes Basoalto, better known by his pen name and, later, legal name Pablo Neruda, was a Chilean poet-diplomat and politician who won the Nobel Prize for Literature in 1971. 
